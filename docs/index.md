@@ -6,16 +6,19 @@ items={[
 title: 'Introduction',
 description: 'Get started with Shtr',
 color: 'blue',
+link: "https://hyperdocs.netlify.app/shtr/docs/introduction"
 },
 {
 title: 'Features',
 description: 'Get to know the amazing features of Shtr',
 color: 'green',
+link: "https://hyperdocs.netlify.app/shtr/docs/features"
 },
 {
 title: 'Installation',
 description: 'Install it in your infrastructure and start using.',
 color: 'teal',
+"https://hyperdocs.netlify.app/shtr/docs/installation"
 }
 ]}
 />
