@@ -1,4 +1,4 @@
 introduction.md
 features.md
 installation.md
-guide-to-install-shtr-in-netlify.md
+guide-to-install-shtr-in-netlify.mdGuide-to-install-Shtr-in-Heroku.md
