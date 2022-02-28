@@ -6,6 +6,3 @@
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fprojectashik%2Fshtr&env=DATABASE_URL,HASH_SALT)
 
 Click on one of the above buttons and start using Shtr.
-
-For Detailed Installation instructions,
-for netlify: [https://hyperdocs.netlify.app/shtr/docs/netlify-installation](https://hyperdocs.netlify.app/shtr/docs/netlify-installation)
