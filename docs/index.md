@@ -26,5 +26,5 @@ link: "https://hyperdocs.netlify.app/shtr/docs/installation"
 ## Learn to install Shtr
 
 - [How to install Shtr in Netlify](https://hyperdocs.netlify.app/shtr/docs/guide-to-install-shtr-in-netlify)
-- [How to install Shtr in Heroku](https://hyperdocs.netlify.app/shtr/docs/guide-to-install-shtr-in-heroku)
-- [How to install Shtr in Vercel](https://hyperdocs.netlify.app/shtr/docs/guide-to-install-shtr-in-vercel)
+- [How to install Shtr in Heroku](https://hyperdocs.netlify.app/shtr/docs/Guide-to-install-Shtr-in-Heroku)
+- [How to install Shtr in Vercel](https://hyperdocs.netlify.app/shtr/docs/Guide-to-install-Shtr-in-Vercel)
