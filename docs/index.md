@@ -18,7 +18,7 @@ link: "https://hyperdocs.netlify.app/shtr/docs/features"
 title: 'Installation',
 description: 'Install it in your infrastructure and start using.',
 color: 'teal',
-"https://hyperdocs.netlify.app/shtr/docs/installation"
+link: "https://hyperdocs.netlify.app/shtr/docs/installation"
 }
 ]}
 />
