@@ -1,3 +1,4 @@
 introduction.md
 features.md
 installation.md
+installations/netlify-installation.md
