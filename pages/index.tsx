@@ -1,10 +1,14 @@
 import FeatureCard from "components/FeatureCard";
 import Logo from "components/Logo";
 import type { NextPage } from "next";
+import Head from "next/head";
 
 const Home: NextPage = () => {
   return (
     <div>
+      <Head>
+        <title>Shtr - The powerfull, opensource and free url shortner</title>
+      </Head>
       <header className="container flex justify-between items-center mx-auto py-2 px-8 md:px-4">
         <Logo />
         <nav>

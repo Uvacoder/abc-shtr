@@ -26,6 +26,13 @@ class MyDocument extends Document {
             href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500&family=Inter:wght@900&display=swap"
             rel="stylesheet"
           />
+          {/* og image, title, description */}
+          <meta
+            property="og:image"
+            content="https://shtr.tk/static/images/og.png"
+          />
+          <meta property="og:title" content="Shtr" />
+          <meta property="og:description" content="Shorten your links." />
         </Head>
         <body className="bg-gray-50">
           <Main />

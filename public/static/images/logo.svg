@@ -8,9 +8,9 @@
         transform="translate(24.75 24.75) scale(1.4285714285714286)"
         id="lockup4-icon"
       >
-        <g className="fill-primary-500">
+        <g fill="#2563EB">
           <g transform="translate(-17.325 -17.325) scale(0.35)" id="container">
-            <g fill="#0d9488">
+            <g fill="#2563EB">
               <rect
                 vectorEffect="non-scaling-stroke"
                 x="1"
