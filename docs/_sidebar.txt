@@ -3,3 +3,4 @@ features.md
 installation.md
 guide-to-install-shtr-in-netlify.md
 Guide-to-install-Shtr-in-Heroku.md
+Guide-to-install-Shtr-in-Vercel.md

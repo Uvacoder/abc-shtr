@@ -7,7 +7,7 @@ Here's a guide on deploying Shtr in Heroku.
   ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1646079416917/UPq86HcGm.png)
 
 - Wait until the app is installed.
-- Now you can get access to the dashboard using the following credentials:
+- Now you can get access to the dashboard using the following credentials: <br/>
   Username: admin<br/>
   Password: shtr
 
