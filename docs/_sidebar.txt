@@ -1,4 +1,4 @@
 introduction.md
-getting-started.md
 features.md
-installation.md
+Getting Started
+    installation.md
