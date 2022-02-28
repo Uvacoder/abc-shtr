@@ -32,7 +32,22 @@ class MyDocument extends Document {
             content="https://shtr.tk/static/images/og.png"
           />
           <meta property="og:title" content="Shtr" />
-          <meta property="og:description" content="Shorten your links." />
+          <meta
+            property="og:description"
+            content="The powerful, opensource and free url shortner"
+          />
+          {/* twitter meta */}
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:creator" content="@ChapagainAshik" />
+          <meta name="twitter:title" content="Shtr" />
+          <meta
+            name="twitter:description"
+            content="The powerful, opensource and free url shortner"
+          />
+          <meta
+            name="twitter:image"
+            content="https://shtr.tk/static/images/og.png"
+          />
         </Head>
         <body className="bg-gray-50">
           <Main />
