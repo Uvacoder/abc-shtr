@@ -19,7 +19,10 @@ const Home: NextPage = () => {
               </a>
             </li>
             <li className="">
-              <a href="#" className="font-medium">
+              <a
+                href="https://hyperdocs.netlify.app/shtr/docs"
+                className="font-medium"
+              >
                 Docs
               </a>
             </li>
