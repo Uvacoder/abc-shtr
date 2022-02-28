@@ -1,4 +1,4 @@
-Welcome to Hyperdocs!
+#Introducing Shtr.
 
 This page will be rendered at at the root of the documetation at /docs/
 
