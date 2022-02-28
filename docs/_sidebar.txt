@@ -1,4 +1,4 @@
 introduction.md
 features.md
 installation.md
-installations/netlify-installation.md
+guide-to-install-shtr-in-netlify.md
